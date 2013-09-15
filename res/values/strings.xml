@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TrainingControl</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_new_program">NewProgram</string>
+    <string name="program_name">Name the program</string>
+    <string name="exercise_name">Exercise</string>
+    <string name="exercise_reps">Nr</string>
+    <string name="exercise_times">Nr</string>
+    <string name="info_text_1">Exercisename</string>
+    <string name="info_text_2">Reps</string>
+    <string name="info_text_3">Times</string>
+    <string name="new_program_button">Create a new program</string>
+    <string name="load_program_button">Load a program</string>
+    <string name="save_button">Save</string>
+    <string name="rep_nr">0</string>
+    <string name="ant">0</string>
+    <string name="title_activity_use_program">UseProgram</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="weight_type">kg</string>
+
+</resources>
